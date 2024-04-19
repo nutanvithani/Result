@@ -1,0 +1,20 @@
+{
+  "student": [
+    {
+      "id": "8cd0",
+      "name": "Nutan Vithani",
+      "GRID": "3507",
+      "Chemistry": "90",
+      "Physics": "100",
+      "Biology": "85"
+    },
+    {
+      "id": "e0a7",
+      "name": "Nutan Vithani",
+      "GRID": "3507",
+      "Chemistry": "90",
+      "Physics": "100",
+      "Biology": "85"
+    }
+  ]
+}
